@@ -55,7 +55,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
-		<finalName>awts</finalName>
+		<finalName>awst</finalName>
 	</build>
 
 </project>
